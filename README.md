@@ -6,8 +6,8 @@ Este é um projeto simples de uma API REST para o controle de gastos com método
 
 - Python
 - Flask
--SQLite
--Insomnia (testes)
+- SQLite
+- Insomnia (testes)
 
 ## 📦 Instalação
 
